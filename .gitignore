@@ -2,7 +2,7 @@
 node_modules
 index.html
 coverage
-dist
+.history
 
 yarn.lock
 pnpm-lock.yaml
